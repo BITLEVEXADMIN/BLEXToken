@@ -1,0 +1,22 @@
+{
+  "name": "blextoken",
+  "version": "1.0.0",
+  "description": "BLEX token smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BITLEVEXADMIN/BLEXToken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BITLEVEXADMIN/BLEXToken/issues"
+  },
+  "homepage": "https://github.com/BITLEVEXADMIN/BLEXToken#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
